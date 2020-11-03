@@ -1,6 +1,6 @@
 # PT-BR
 
-Nas versões 6.1 e 6.1.1 do recalbox, por padrão, os jogos de N64 não estão funcionando bem em controles do tipo arcade (via USB ou GPIO). Para isso siga os seguintes passos:
+Nas versões 6.1, 6.1.1 and 7.0.1 do recalbox, por padrão, os jogos de N64 não estão funcionando bem em controles do tipo arcade (via USB ou GPIO). Para isso siga os seguintes passos:
 
 Testado e funcionando 100% em controle arcade USB, GPIO e em controles com ou sem fio.
 
@@ -15,7 +15,7 @@ OBS: para visualizar a pasta .config, habilite no Windows Explorer a opção "Vi
 **********************
 # ENG
 
-In versions 6.1 and 6.1.1 of recalbox, by default, N64 games are not working well on arcade-type controls (via USB or GPIO). To do this, follow these steps:
+In versions 6.1, 6.1.1 and 7.0.1 of recalbox, by default, N64 games are not working well on arcade-type controls (via USB or GPIO). To do this, follow these steps:
 
 Tested and working 100% on USB, GPIO arcade and wired or wireless controls.
 
